@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋🏽, I'm Fred Siika!</h1>
-<h3 align="center">Software Engineer | ReactJS Developer | Copywriter | UI/UX Advocate</h3>
+<h3 align="center">Software Engineer at <a href="https://www.capco.com/" >Capco</a></h3>
+<h3 align="center">React JS, React Native | Copywriter | UI/UX Advocate</h3>
 
 <div>
   <h3 align="center">Connect with me:</h3>
@@ -10,7 +11,7 @@
   </p>
 </div>
 
-Your website is a sum of layers—structure, data, design, content, and functionality. Understanding your visitors and their behaviors is paramount to build a beautifully functioning front-end for your website and/or mobile app.
+Your website, web/mobile app is a sum of layers—structure, data, design, content, and functionality. Understanding your visitors and their behaviors is paramount to build a beautifully functioning front-end for your website and/or mobile app.
 
 Creating that user-facing functionality is my job. It's my responsibility to create the environment for everything that your target users see and touch: content, layout, and interaction.
 
@@ -18,11 +19,11 @@ Creating that user-facing functionality is my job. It's my responsibility to cre
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredsiika&show_icons=true&locale=en" alt="fredsiika" /></p>
 
 
-- 🌱 I’m currently learning **React Native, Flutter**
+- 🌱 I’m currently working on **React**, **React Native** projects across the Financial Services, Energy, and Insurance industries.
 
 - 👨‍💻 All of my projects are available at [Top secret](Top secret)
 
-- 💬 Ask me about **ReactJS, NodeJS, Frontend Development, User Experience, Copywriting**
+- 💬 Ask me about **React JS, React Native,  NodeJS, Frontend Development, User Experience, Copywriting.**
 
 - 📫 How to reach me **fredsiika@gmail.com**
 
