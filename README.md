@@ -1,13 +1,10 @@
-<h1 align="center">Hi 👋🏽, I'm Fred Siika!</h1>
-<h3 align="center">Software Engineer at <a href="https://www.capco.com/" >Capco</a></h3>
-<h3 align="center">React JS, React Native | Copywriter | UI/UX Advocate</h3>
+<h1 align="center">Hi 👋🏽, I'm Fred!</h1>
+<h3 align="center">Software Engineer at <a href="https://www.capco.com/">Capco</a></h3>
+<h3 align="center">React JS, React Native, and SwiftUI Advocate</h3>
 
 <div>
   <h3 align="center">Connect with me:</h3>
   <p align="center">
-  <a href="https://twitter.com/fredsiika" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="fredsiika" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/fredsiika" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="fredsiika" height="30" width="40" /></a>
-  <a href="https://instagram.com/fredsiika" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="fredsiika" height="30" width="40" /></a>
   </p>
 </div>
 
@@ -18,17 +15,17 @@ Creating that user-facing functionality is my job. It's my responsibility to cre
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredsiika&show_icons=true&locale=en" alt="fredsiika" /></p>
 
+- ⚙️ I'm incessant on automated pipelines, release cycles and overall team workflow
 
-- 🌱 I’m currently working on **React**, **React Native** projects across the Financial Services, Energy, and Insurance industries.
+- 🌱 I find fulfillment creating serverless solutions **AWS (Amplify, Lambda, API Gateway)** that deliver value
 
-- 👨‍💻 All of my projects are available at [Top secret](Top secret)
+- 📈 I'm optimistic on future of **cloud native apps using microservices** 
 
-- 💬 Ask me about **React JS, React Native,  NodeJS, Frontend Development, User Experience, Copywriting.**
+- 💬 Reach out to me if you've solved the growing pains deploying mobile app at scale.
 
 - 📫 How to reach me **fredsiika@gmail.com**
 
 - ⚡ Fun fact **I'm an even better Jazz Improv Pianist who would've pursued that career path in another lifetime.**
-
 
 
 <h3 align="left">Languages and Tools:</h3>
