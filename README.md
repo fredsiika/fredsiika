@@ -19,8 +19,8 @@
 
 | 🔑 Keywords   | Examples      |
 | :------------ | :------------ |
-| **Write**         | Write a persuasive essay arguing for or against the use of genetically modified organisms (GMOs) in agriculture, and support your argument with evidence and examples. |
-| Content Cell  | Content Cell  |
+| **Write**     |  |
+  | Example  | I want you to act as an essay writer. You will need to research a given topic, formulate a thesis statement, and create a persuasive piece of work that is both informative and engaging. My first suggestion request is “I need help writing an essay arguing for or against the overuling of Roe v Wade, and support your argument with evidence and examples."  |
 
 
 About this Template
