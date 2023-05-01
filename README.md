@@ -1,40 +1,16 @@
 <h1 align="center">Hi 👋🏽, I'm Fred!</h1>
 <h3 align="center">Software Engineer at <a href="https://www.capco.com/">Capco</a></h3>
-<h3 align="center">React JS, React Native, and SwiftUI Advocate</h3>
+<h3 align="center">React, Prompt Engineering, and AGI Advocate</h3>
 
-<div>
+<!-- <div>
   <h3 align="center">Checkout these resources I've compiled as a result </h3>
   <p align="center">
   </p>
+</div> -->
+
+<div>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredsiika&show_icons=true&locale=en&count_private=true&hide=contribs,issues&include_all_commits=true&theme=dracula" alt="fredsiika" /></p>
 </div>
-
-## ChatGPT Prompt Engineering
-
-### 🔑  Keywords - with examples
-
-### 📋  Basic prompt structure
-
-### 🤖  Prompt engineering techniques
-
-
-| 🔑 Keywords   | Examples      |
-| :------------ | :------------ |
-| **Write**     |  |
-  | Example  | I want you to act as an essay writer. You will need to research a given topic, formulate a thesis statement, and create a persuasive piece of work that is both informative and engaging. My first suggestion request is “I need help writing an essay arguing for or against the overuling of Roe v Wade, and support your argument with evidence and examples."  |
-
-
-About this Template
-What is prompt engineering?
-If you've never experimented with a language model like chatGPT, prompt engineering might seem like a strange concept. The idea is that by carefully crafting, experimenting, and refining prompts used with language models, a user can guide a model to produce higher quality outputs. In other words, prompt engineering is a way to improve the accuracy and efficiency of natural language models by simply fine-tuning what information you provide to to a model and how you request information from it.
-
-What is this template?
-This template provides three useful parts you can use to get started with prompt engineering. The first is a list of keywords with examples. This list is useful for brainstorming ideas during prompt crafting. The second item contains examples of basic prompt structures. This is especially useful if you haven't gone beyond asking simple one or multi-line questions. The last part of this toolkit presents some basic and not-so-basic prompt engineering techniques you can use as a starting point.
-
-The field of prompt engineering is a relatively new one but there have already been dozens of papers published that look at the improvements in accuracy when using different types of prompts. So far from being a slightly silly job description, prompt engineering is quickly becoming a field in its own right. This simple toolkit gives you the basics to get started and explore it.
-
-If you're interested in useful prompts to add to your library, we have a huge list of chatGPT prompts to help you get started.
-
-<!-- <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredsiika&show_icons=true&locale=en" alt="fredsiika" /></p> -->
 
 - ⚙️ I'm incessant on automated pipelines, release cycles and overall team workflow
 
