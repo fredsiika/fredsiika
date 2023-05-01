@@ -9,7 +9,7 @@
 </div> -->
 
 <div>
-  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredsiika&show_icons=true&locale=en&count_private=true&hide=issues&include_all_commits=true&theme=dracula" alt="fredsiika" /></p>
+  <p align="center">&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fredsiika&show_icons=true&locale=en&count_private=true&hide=contribs,issues&include_all_commits=true&theme=dracula" alt="fredsiika" /></p>
 </div>
 
 - ⚙️ I'm incessant on automated pipelines, release cycles and overall team workflow
