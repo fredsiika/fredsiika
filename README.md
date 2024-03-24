@@ -8,7 +8,7 @@
         <li>⚙️<strong>Technical Consulting:</strong> Full Stack Software Engineer at <a href="https://www.capco.com/" target="_blank" rel="noopener noreferrer">Capco</a> based in Dallas, Texas</li>
         <li>⚙️ <strong>System Optimization:</strong> From Life Science to tech, I excel in automating and refining systems across industries.</li>
         <li>🤖 <strong>AI/ML Innovation:</strong> Passionate about AI, I delve into building Large Language Models, chatbots, and Agents from scratch</li>
-        <li>💬 <strong>Stack:</strong> Ask me about Anything JavaScript, Chatbots, Prompts</li>
+        <li>💬 <strong>Stack:</strong> Ask me about JavaScript, and Large language models (<a href="https://huggingface.co/" target="_blank" rel="noopener noreferrer">HuggingFace</a>)</li>
         <li>📚 <strong>Community Involvement:</strong> I contribute to and grow with tech communities through local Meetups.</li>
     </ul>
 </section>
